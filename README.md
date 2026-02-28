@@ -9,3 +9,8 @@ Building a modern data warehouse using the SQL server, including ETL processes d
 Anyone is able to use this
 
 I'm working on demonstrating proficiency with SQL
+
+
+
+
+Special thanks and Credit to CodingWithBarra's course
